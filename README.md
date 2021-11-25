@@ -1,4 +1,4 @@
-# masters_gst
+# GST_Data_Tracker
 
 A new Flutter project.
 
